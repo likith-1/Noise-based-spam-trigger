@@ -53,7 +53,3 @@ if (status.metering > -10 && !spamMode) { // Change -10 to adjust sensitivity
    triggerSpamMode();
 }
 ```
-
-## 📜 License
-
-MIT
